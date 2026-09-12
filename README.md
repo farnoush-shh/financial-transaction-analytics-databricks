@@ -67,7 +67,7 @@ The Medallion Architecture controls data processing and quality, while the star 
 
 ## Databricks Pipeline
 
-![Databricks Transaction Analytics Pipeline](images/databricks_pipeline .png)
+![Databricks Transaction Analytics Pipeline](images/databricks_pipeline.png)
 
 The complete workflow is orchestrated through Databricks Jobs:
 
