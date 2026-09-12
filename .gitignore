@@ -1,0 +1,19 @@
+# Databricks / Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Local outputs / secrets
+output/
+*.token
+*.key
+*.pem
+
+# Power BI local/cache files
+*.pbit.cache
